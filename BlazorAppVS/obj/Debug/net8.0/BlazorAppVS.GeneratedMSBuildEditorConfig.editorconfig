@@ -26,12 +26,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/platzi/Blazor/BlazorAppVS/BlazorAppVS/Layout/ModuleTitle.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1vZHVsZVRpdGxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/platzi/Blazor/BlazorAppVS/BlazorAppVS/Pages/AddProduct.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkUHJvZHVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/platzi/Blazor/BlazorAppVS/BlazorAppVS/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/platzi/Blazor/BlazorAppVS/BlazorAppVS/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/platzi/Blazor/BlazorAppVS/BlazorAppVS/Pages/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/platzi/Blazor/BlazorAppVS/BlazorAppVS/Pages/Weather.razor]

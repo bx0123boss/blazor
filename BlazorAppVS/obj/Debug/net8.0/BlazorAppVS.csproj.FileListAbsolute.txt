@@ -1029,3 +1029,9 @@ C:\platzi\Blazor\BlazorAppVS\BlazorAppVS\obj\Debug\net8.0\BlazorAppVS.dll
 C:\platzi\Blazor\BlazorAppVS\BlazorAppVS\obj\Debug\net8.0\refint\BlazorAppVS.dll
 C:\platzi\Blazor\BlazorAppVS\BlazorAppVS\obj\Debug\net8.0\BlazorAppVS.pdb
 C:\platzi\Blazor\BlazorAppVS\BlazorAppVS\obj\Debug\net8.0\ref\BlazorAppVS.dll
+C:\platzi\Blazor\BlazorAppVS\BlazorAppVS\obj\Debug\net8.0\BlazorAppVS.sourcelink.json
+C:\platzi\Blazor\BlazorAppVS\BlazorAppVS\bin\Debug\net8.0\wwwroot\_framework\Blazored.Toast.wasm
+C:\platzi\Blazor\BlazorAppVS\BlazorAppVS\bin\Debug\net8.0\wwwroot\_framework\Blazored.Toast.wasm.gz
+C:\platzi\Blazor\BlazorAppVS\BlazorAppVS\bin\Debug\net8.0\Blazored.Toast.dll
+C:\platzi\Blazor\BlazorAppVS\BlazorAppVS\obj\Debug\net8.0\webcil\Blazored.Toast.wasm
+C:\platzi\Blazor\BlazorAppVS\BlazorAppVS\obj\Debug\net8.0\compressed\jbcjvcrm00.gz
